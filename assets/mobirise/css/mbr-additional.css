@@ -1524,17 +1524,22 @@ section.lazy-placeholder:after {
 .cid-rKhgC1H68p H1 {
   text-align: left;
 }
-.cid-rKizcWEFZZ {
-  background: #212121;
+.cid-rKiBPhgp4a {
+  background: #1f1f1f;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(0deg, #212121, #262626);
+  background: linear-gradient(0deg, #1f1f1f, #1f1f1f);
 }
-.cid-rKizcWEFZZ .video-block {
+.cid-rKiBPhgp4a .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-rKizcWEFZZ .video-block {
+  .cid-rKiBPhgp4a .video-block {
     width: 100% !important;
   }
+}
+.cid-rKiBZlj8Jo {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #0f0f0f;
 }
